@@ -1,5 +1,6 @@
 Wumpus
 =====
+![License](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
 Wumpus game, programmed in [C++](https://en.wikipedia.org/wiki/C%2B%2B). 
 
@@ -17,10 +18,6 @@ Data is displayed in console with several options (normal, faster, debug).
 
 ![Main Window](http://i.imgur.com/77LvL4S.png)
 ![Game](http://i.imgur.com/9HqROZC.png)
-
-### License
-
-Wumpus is licensed under GPLv3. Refer to LICENSE.md for more information.
 
 ## Building
 
