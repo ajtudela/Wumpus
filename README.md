@@ -16,8 +16,8 @@ Data is displayed in console with several options (normal, faster, debug).
 
 ## Screenshots
 
-![Main Window](http://i.imgur.com/77LvL4S.png)
-![Game](http://i.imgur.com/9HqROZC.png)
+![Main Window](http:/http://i.imgur.com/KBiyTt9.png)
+![Game](http://i.imgur.com/WQUpthI.jpg)
 
 ## Building
 
