@@ -1,0 +1,6 @@
+{
+  "name": "Wumpus",
+  "tagline": "Wumpus game, programmed in C++.",
+  "body": "Wumpus\r\n=====\r\n![License](https://img.shields.io/badge/License-GPLv3-blue.svg)\r\n\r\nWumpus game, programmed in [C++](https://en.wikipedia.org/wiki/C%2B%2B). \r\n\r\nI programed this little game years ago when I started to studying AI. \r\n\r\nWumpus is a classic and funny AI game in which the Hero has to pick a bag of gold or kill the the wild and savage Wumpus beast. Wumpus has the following characteristics:\r\n* Three(3) working modes: Normal, Faster, Debug.\r\n* Random squares with Wumpus, Agent, Gold and Pit.\r\n* Random squares with stench, shiny and breeze feelings.\r\n* The agent infers based on their feelings.\r\n\r\nData is displayed in console with several options (normal, faster, debug).\r\n\r\n## Screenshots\r\n\r\n![Main Window](http://i.imgur.com/77LvL4S.png)\r\n![Game](http://i.imgur.com/9HqROZC.png)\r\n\r\n## Building\r\n\r\nWumpus can be compiled with any compiler that supports C++.\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
